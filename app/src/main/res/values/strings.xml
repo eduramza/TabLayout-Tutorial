@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TabLayoutTutorial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="one_fragment">One fragment</string>
+    <string name="two_fragment">Two fragment</string>
+    <string name="three_fragment">Three fragment</string>
 </resources>
